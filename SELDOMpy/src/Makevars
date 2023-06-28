@@ -1,0 +1,2 @@
+PKG_CFLAGS= -I./include -I./include/include_amigo -I./include/include_cvodes -I/usr/local/include -fopenmp 
+PKG_LIBS=  $(SHLIB_OPENMP_CFLAGS)
