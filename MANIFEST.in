@@ -1,0 +1,14 @@
+#
+
+include SELDOMpy/src/include/include_amigo/*.h
+include SELDOMpy/src/include/include_cvodes/cvodes/*.h
+include SELDOMpy/src/include/include_cvodes/nvector/*.h
+include SELDOMpy/src/include/include_cvodes/sundials/*.h
+include SELDOMpy/src/*.h
+include SELDOMpy/functions/*.py
+include SELDOMpy/examples/MAPK/MAPK.xlsx
+include SELDOMpy/examples/MAPK/MAPK_training_and_reduce.py
+include SELDOMpy/examples/SP/SP_training_and_reduce.py
+include SELDOMpy/examples/SP/SP.xlsx
+include SELDOMpy/examples/MAPK/MAPK_training_and_reduce_pyPESTO.py
+include SELDOMpy/examples/SP/SP_training_and_reduce_pyPESTO.py
